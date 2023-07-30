@@ -3,8 +3,8 @@
 MyMovieList is a web application for tracking films to watch. 🎬
 
 ### Technologies Used:
-- Spring Boot
-- MySQL
+- Node.js
+- React
 
 ## Usage :wrench:
 ### How to use
