@@ -8,6 +8,9 @@ import {Add} from './components/Add';
 
 function App() {
   return (
+
+    // Routing
+    
     <Router>
       <Header>
 
@@ -15,13 +18,10 @@ function App() {
 
       <Routes>
 
-        // Return Watchlist component
         <Route exact path='/' element={<Watchlist/>} />
 
-        // Return Watched component
         <Route exact path='/watched' element={<Watched/>} />
 
-        // Return Add component
         <Route exact path='/add' element={<Add/>} />
 
       </Routes>
