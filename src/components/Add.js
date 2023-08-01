@@ -48,7 +48,7 @@ export const Add = () => {
 
           {results.length > 0 && ( // Check for results
             <ul className="results">
-              {results.map((movie) => ( // Map through results
+              {results.map((movie) => ( // Map through results, give each movie a unique key
                 <li key={movie.id}>
                   <ResultCard movie={movie} />
                 </li>
