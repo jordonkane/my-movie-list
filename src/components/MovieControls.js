@@ -12,9 +12,9 @@ export const MovieControls = ({ type, movie }) => {
 
   return (
     <div className="inner-card-controls">
-      {type === "watchlist" && ( // Styling & buttons
+      {type === "watchlist" && ( // Styling & action buttons
         <>
-          <button className="ctrl-btn" onClick={() => addMovieToWatched(movie)}>
+          <button className="ctrl-btn" onClick={() => addMovieToWatched(movie) }>
             <i className="fa-fw far fa-eye"></i>
           </button>
 
@@ -27,7 +27,7 @@ export const MovieControls = ({ type, movie }) => {
         </>
       )}
 
-      {type === "watched" && ( // Styling & buttons
+      {type === "watched" && ( // Styling & action buttons
         <>
           <button className="ctrl-btn" onClick={() => moveToWatchlist(movie)}>
             <i className="fa-fw far fa-eye-slash"></i>
