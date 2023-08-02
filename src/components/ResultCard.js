@@ -13,18 +13,21 @@ export const ResultCard = ({ movie }) => {
     watched,
   } = useContext(GlobalContext);
 
-  let storedMovie = watchlist.find((o) => o.id === movie.id);
-  let storedMovieWatched = watched.find((o) => o.id === movie.id);
+  // Check arrays for movies
+  let storedMovie = watchlist.find((o) => o.id === movie.id); // Check if movie is in watchlist
+  let storedMovieWatched = watched.find((o) => o.id === movie.id); // Check if movie is in watched
 
+  // Disable button if movie is stored
   const watchlistDisabled = storedMovie
     ? true
     : storedMovieWatched
     ? true
     : false;
 
+  // Disable button if movie is watched
   const watchedDisabled = storedMovieWatched ? true : false;
 
-  return ( // Styling
+  return ( // Styling & buttons
     <div className="result-card">
       <div className="poster-wrapper">
         {movie.poster_path ? ( // Create an image element
