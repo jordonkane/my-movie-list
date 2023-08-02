@@ -25,3 +25,4 @@ MyMovieList is a web application for tracking films to watch. 🎬
 
 ## Author Info
 - Website: [LinkedIn - Jordon Kane](https://www.linkedin.com/in/jordonkane/)
+- This project was built with help from Matt the Dev on YouTube & StackOverflow
