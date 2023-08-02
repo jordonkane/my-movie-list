@@ -20,6 +20,8 @@ MyMovieList is a web application for tracking films to watch. 🎬
 ## Usage :wrench:
 ### How to use
 - Clone the repository on your local machine
+- Add your own TMDB API key to .env.local
+- Run npm start in your IDE's console
 
 ## Author Info
 - Website: [LinkedIn - Jordon Kane](https://www.linkedin.com/in/jordonkane/)
