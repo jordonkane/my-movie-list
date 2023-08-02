@@ -31,7 +31,8 @@ export const Add = () => {
   return (
 
     /*
-      Added input to search for movies.
+      Styling with markup
+      Added input to search for movies
     */
 
     <div className="add-page">

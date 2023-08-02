@@ -24,7 +24,7 @@ export const ResultCard = ({ movie }) => {
 
   const watchedDisabled = storedMovieWatched ? true : false;
 
-  return (
+  return ( // Styling
     <div className="result-card">
       <div className="poster-wrapper">
         {movie.poster_path ? ( // Create an image element
