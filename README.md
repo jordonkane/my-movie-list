@@ -1,5 +1,5 @@
 # MyMovieList - Web App 🎬
-# Screenshots
+# Screenshots 📷
 ![Screenshot from 2023-08-03 11-20-13](https://github.com/jordonkane/my-movie-list/assets/55868384/48402808-63b6-42e2-9eb7-c10caef38adb)
 ## Search Movies 🎥
 ![Screenshot from 2023-08-03 11-21-10](https://github.com/jordonkane/my-movie-list/assets/55868384/7102d89e-0fb2-40d6-b36f-267d3c606f62)
