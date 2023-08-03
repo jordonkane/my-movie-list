@@ -8,9 +8,11 @@
 ![image](https://github.com/jordonkane/my-movie-list/assets/55868384/4efd2031-02a4-4340-8e69-fe793420e691)
 ![Screenshot from 2023-08-03 11-21-43](https://github.com/jordonkane/my-movie-list/assets/55868384/4ee85621-1929-4fab-b6e8-7bc526ec9741)
 ## Move Movies Between Lists 🎥
+### Hover over the Movie Card to Access Controls ✅
 ![image](https://github.com/jordonkane/my-movie-list/assets/55868384/729aea8b-ef51-4fb8-9ba4-7d99d840b4ec)
-### Move Movie to Watched
+### Go to the Watched Page ✅
 ![Screenshot from 2023-08-03 11-20-44](https://github.com/jordonkane/my-movie-list/assets/55868384/e5014966-a31d-4209-ad0e-b1d8d9d8cdaa)
+### Watched Page is Updated! ✅
 ![Screenshot from 2023-08-03 11-22-02](https://github.com/jordonkane/my-movie-list/assets/55868384/e4b68fdb-655a-421e-9dc4-362a170a19c8)
 
 ## Overview :sunflower:
