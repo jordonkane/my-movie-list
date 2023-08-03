@@ -5,7 +5,7 @@
 ![Screenshot from 2023-08-03 11-21-10](https://github.com/jordonkane/my-movie-list/assets/55868384/7102d89e-0fb2-40d6-b36f-267d3c606f62)
 ![Screenshot from 2023-08-03 11-21-16](https://github.com/jordonkane/my-movie-list/assets/55868384/99254dc7-df71-4489-8afc-8cfc9a892b03)
 ## Add Movies to Watchlist 🎥
-![Screenshot from 2023-08-03 11-21-34](https://github.com/jordonkane/my-movie-list/assets/55868384/56d30139-5ed5-4085-926a-bd136e504bc9)
+![image](https://github.com/jordonkane/my-movie-list/assets/55868384/4efd2031-02a4-4340-8e69-fe793420e691)
 ![Screenshot from 2023-08-03 11-21-43](https://github.com/jordonkane/my-movie-list/assets/55868384/4ee85621-1929-4fab-b6e8-7bc526ec9741)
 
 ## Update/Remove Movies from Lists 🎥
