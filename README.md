@@ -1,13 +1,14 @@
 # MyMovieList - Web App 🎬
 # Screenshots
-![Screenshot from 2023-08-02 16-37-29](https://github.com/jordonkane/my-movie-list/assets/55868384/8972036c-762b-4940-9954-d13170de6b13)
+![Screenshot from 2023-08-03 11-20-13](https://github.com/jordonkane/my-movie-list/assets/55868384/48402808-63b6-42e2-9eb7-c10caef38adb)
 ## Search Movies 🎥
-![Screenshot from 2023-08-02 16-45-38](https://github.com/jordonkane/my-movie-list/assets/55868384/ad0d6784-27b5-4841-b833-22a404ed325d)
-![Screenshot from 2023-08-02 16-45-53](https://github.com/jordonkane/my-movie-list/assets/55868384/374ce99a-03fa-4023-883c-be6347dd9943)
-## Create Movie Lists 🎥
-![Screenshot from 2023-08-02 16-48-25](https://github.com/jordonkane/my-movie-list/assets/55868384/5ccaa9f9-e80b-46c4-86cf-1df43777c63b)
+![Screenshot from 2023-08-03 11-21-10](https://github.com/jordonkane/my-movie-list/assets/55868384/7102d89e-0fb2-40d6-b36f-267d3c606f62)
+![Screenshot from 2023-08-03 11-21-16](https://github.com/jordonkane/my-movie-list/assets/55868384/99254dc7-df71-4489-8afc-8cfc9a892b03)
+## Add Movies to Watchlist 🎥
+![Screenshot from 2023-08-03 11-21-34](https://github.com/jordonkane/my-movie-list/assets/55868384/56d30139-5ed5-4085-926a-bd136e504bc9)
+![Screenshot from 2023-08-03 11-21-43](https://github.com/jordonkane/my-movie-list/assets/55868384/4ee85621-1929-4fab-b6e8-7bc526ec9741)
+
 ## Update/Remove Movies from Lists 🎥
-![image](https://github.com/jordonkane/my-movie-list/assets/55868384/007db5e2-3209-473f-a533-c76d509d9efb)
 
 ## Overview :sunflower:
 MyMovieList is a web application for tracking films to watch. 🎬
