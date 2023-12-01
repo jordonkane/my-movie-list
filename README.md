@@ -1,5 +1,16 @@
 # MyMovieList - Web App 🎬
 MyMovieList is a web application used for tracking films to watch.
+#### Requirements:
+1. `Node.js 12.16.3` (LTS)
+2. `themoviedb API Key`
+3. `ES7 React/Redux snippets`
+4. `Visual Studio Code` (or IDE of choice)
+
+#### Development environment setup instructions:
+1. Clone the repository on your local machine.
+2. Open the root folder in `Visual Studio Code` (or your IDE of choice).
+3. Add your own `TMDB API key` to `.env.local`
+4. Run `npm start` in your IDE's console.
 # Screenshots 📷
 ![Screenshot from 2023-08-03 11-20-13](https://github.com/jordonkane/my-movie-list/assets/55868384/48402808-63b6-42e2-9eb7-c10caef38adb)
 ## Search Movies 🎥
@@ -15,18 +26,6 @@ MyMovieList is a web application used for tracking films to watch.
 ![Screenshot from 2023-08-03 11-20-44](https://github.com/jordonkane/my-movie-list/assets/55868384/e5014966-a31d-4209-ad0e-b1d8d9d8cdaa)
 ### Watched Page is Updated! :heavy_check_mark:
 ![Screenshot from 2023-08-03 11-22-02](https://github.com/jordonkane/my-movie-list/assets/55868384/e4b68fdb-655a-421e-9dc4-362a170a19c8)
-
-#### Requirements:
-1. `Node.js 12.16.3` (LTS)
-2. `themoviedb API Key`
-3. `ES7 React/Redux snippets`
-4. `Visual Studio Code` (or IDE of choice)
-
-#### Development environment setup instructions:
-1. Clone the repository on your local machine.
-2. Open the root folder in `Visual Studio Code` (or your IDE of choice).
-3. Add your own `TMDB API key` to `.env.local`
-4. Run `npm start` in your IDE's console.
 
 #### Author Info
 - Website: [LinkedIn - Jordon Kane](https://www.linkedin.com/in/jordonkane/)
