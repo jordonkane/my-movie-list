@@ -27,3 +27,7 @@ MyMovieList is a web application used for tracking films to watch.
 2. Open the root folder in `Visual Studio Code` (or your IDE of choice).
 3. Add your own `TMDB API key` to `.env.local`
 4. Run `npm start` in your IDE's console.
+
+#### Author Info
+- Website: [LinkedIn - Jordon Kane](https://www.linkedin.com/in/jordonkane/)
+- This project was built with guidance from mattdobsonweb
