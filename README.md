@@ -1,4 +1,5 @@
 # MyMovieList - Web App 🎬
+MyMovieList is a web application used for tracking films to watch.
 # Screenshots 📷
 ![Screenshot from 2023-08-03 11-20-13](https://github.com/jordonkane/my-movie-list/assets/55868384/48402808-63b6-42e2-9eb7-c10caef38adb)
 ## Search Movies 🎥
@@ -15,19 +16,14 @@
 ### Watched Page is Updated! :heavy_check_mark:
 ![Screenshot from 2023-08-03 11-22-02](https://github.com/jordonkane/my-movie-list/assets/55868384/e4b68fdb-655a-421e-9dc4-362a170a19c8)
 
-## Overview :sunflower:
-MyMovieList is a web application for tracking films to watch. 🎬
+#### Requirements:
+1. `Node.js 12.16.3` (LTS)
+2. `themoviedb API Key`
+3. `ES7 React/Redux snippets`
+4. `Visual Studio Code` (or IDE of choice)
 
-### Technologies Used:
-- Node.js
-- React
-
-## Usage :wrench:
-### How to use
-- Clone the repository on your local machine
-- Add your own TMDB API key to .env.local
-- Run npm start in your IDE's console
-
-## Author Info
-- Website: [LinkedIn - Jordon Kane](https://www.linkedin.com/in/jordonkane/)
-- This project was built with help from Matt the Dev on YouTube & StackOverflow
+#### Development environment setup instructions:
+1. Clone the repository on your local machine.
+2. Open the root folder in `Visual Studio Code` (or your IDE of choice).
+3. Add your own `TMDB API key` to `.env.local`
+4. Run `npm start` in your IDE's console.
