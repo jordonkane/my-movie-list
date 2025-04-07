@@ -27,6 +27,3 @@ MyMovieList is a web application used for tracking films to watch.
 ### Watched Page is Updated! :heavy_check_mark:
 ![Screenshot from 2023-08-03 11-22-02](https://github.com/jordonkane/my-movie-list/assets/55868384/e4b68fdb-655a-421e-9dc4-362a170a19c8)
 
-#### Author Info
-- Website: [LinkedIn - Jordon Kane](https://www.linkedin.com/in/jordonkane/)
-- This project was built with guidance from mattdobsonweb
